@@ -6,6 +6,7 @@ This repository catalogs academic assignments, laboratory projects, and practica
 
 ##  1st Year
 
+
 ### 1st Semester
 | Course | Project / Focus | Language / Tech | Repository |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +29,7 @@ This repository catalogs academic assignments, laboratory projects, and practica
 | :--- | :--- | :--- | :--- |
 | **Base de Dados** |  | SQL | [View Project](https://github.com/teu-utilizador/nome-do-repo) |
 | **Programação Orientada aos Objetos** | OOP design patterns & architecture | Java | [View Project](https://github.com/teu-utilizador/nome-do-repo) |
-| **Sistemas Operativos** | Processes, concurrency & IPC | C | [View Project](https://github.com/teu-utilizador/nome-do-repo) |
+| **Sistemas Operativos** | Processes, concurrency & IPC | C | [View Project](https://github.com/franciscacardoso22/SO) |
 
 ---
 
